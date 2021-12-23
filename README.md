@@ -1,4 +1,4 @@
-#356 Books Project
+# 356 Books Project
 <br /> 1️⃣  Final Database Project for ECE356 <br />
 <br /> 2️⃣  Please download our csvs from: https://drive.google.com/drive/folders/1KF5szJ5qJvPal1ElPvzufr7S3YP0dP-S<br />
 <br /> 3️⃣  Upload the csvs to our group directory on the mysql server of your choosing. The path `can not` change; the paths in the scripts must match<br />
