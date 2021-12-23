@@ -6,4 +6,4 @@
 <br /> 5️⃣  Put dbsetup.py, 356Project.sql in the same directory<br />
 <br /> 6️⃣  Connect to desired database, run dbsetup.py (in shell), then createGoodReads.sql (in MySql client connected to database)<br />
 <br /> 7️⃣  Run client.py to use the db client<br />
-<br /> 8️⃣  The video can be found at: https://drive.google.com/file/d/1EJd7E6rGRDqYKk0xBh4zyV8fc_PJK7r6/view?usp=sharing <br />
+<br /> 8️⃣  The demo can be found at: https://drive.google.com/file/d/1EJd7E6rGRDqYKk0xBh4zyV8fc_PJK7r6/view?usp=sharing <br />
