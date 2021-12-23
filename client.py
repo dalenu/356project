@@ -290,7 +290,7 @@ def checkInBook(LibraryCard, BibNumber, branchID, ItemCollection, ItemType):
         response["Branch"] = branchID
         numberOfBooks = numberOfBooksCheckedOut(LibraryCard)
         updateUserCount(LibraryCard, numberOfBooks-1)
-        print("The booked was checked in.")
+        print("The book was checked in.")
         return  response
     else: 
         return failResponseTemplate
